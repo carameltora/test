@@ -86,3 +86,73 @@ button:hover {
   font-size:2vw;
   top: -120px;
 }
+
+.discordimg {
+  object-fit: cover;
+  object-position: center;
+  width: 6%;
+  position: relative;
+  top: -100px;
+  left: 380px;
+}
+
+.discordimg:hover {
+  object-fit: cover;
+  object-position: center;
+  width: 6%;
+  position: relative;
+  top: -100px;
+  left: 380px;
+  transform: scale(1.2);
+}
+
+
+.githubimg {
+  object-fit: cover;
+  object-position: center;
+  width: 6%;
+  position: relative;
+  top: -105px;
+  left: 390px;
+}
+
+.githubimg:hover {
+  object-fit: cover;
+  object-position: center;
+  width: 6%;
+  position: relative;
+  top: -105px;
+  left: 390px;
+  transform: scale(1.2);
+}
+
+.youtubeimg {
+  object-fit: cover;
+  object-position: center;
+  width: 6%;
+  position: relative;
+  top: -105px;
+  left: 400px;
+}
+
+.youtubeimg:hover {
+  object-fit: cover;
+  object-position: center;
+  width: 6%;
+  position: relative;
+  top: -105px;
+  left: 400px;
+  transform: scale(1.2);
+}
+
+.join {
+  object-fit: cover;
+  object-position: center;
+  color: #7635DC;
+  position: relative;
+  top: -105px;
+  left: 380px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 11px;
+}
